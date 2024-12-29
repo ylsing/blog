@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>ylsing&#39;s Blog</title>
   
-  
+  <subtitle>岁月温柔以待，福泽如影随行</subtitle>
   <link href="https://ylsing.github.io/atom.xml" rel="self"/>
   
   <link href="https://ylsing.github.io/"/>
-  <updated>2024-12-29T04:35:18.043Z</updated>
+  <updated>2024-12-29T06:36:00.000Z</updated>
   <id>https://ylsing.github.io/</id>
   
   <author>
@@ -17,41 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://ylsing.github.io/2024/12/29/ylsing&#39;s%20blog/"/>
-    <id>https://ylsing.github.io/2024/12/29/ylsing&#39;s%20blog/</id>
-    <published>2024-12-29T04:54:52.475Z</published>
-    <updated>2024-12-29T04:35:18.043Z</updated>
+    <title>枫叶的Blog</title>
+    <link href="https://ylsing.github.io/2024/12/29/%E6%9E%AB%E5%8F%B6%E7%9A%84Blog/"/>
+    <id>https://ylsing.github.io/2024/12/29/%E6%9E%AB%E5%8F%B6%E7%9A%84Blog/</id>
+    <published>2024-12-29T06:38:02.283Z</published>
+    <updated>2024-12-29T06:36:00.000Z</updated>
     
-    <content type="html"><![CDATA[<p>2024&#x2F;12&#x2F;29  • 天气：阴，多云☁️• 最高温度:7• 日升:07:32:06• 日落：17:22:45</p><hr><ul><li>2024 年底，出差出麻了，比较高兴的是在特种兵队长的带领下出差期间也看了祖国的大好河山，最近突然有了些想法，人生在世几十年，回顾往日，自己留下来什么足迹？想了许久，枫叶的博客由此而来！</li></ul><hr><h2 id="1-20241229"><a href="#1-20241229" class="headerlink" title="1 20241229"></a>1 20241229</h2><ul><li>博客用来记录什么？生活、工作或者朋友。可以写下过去美好的回忆（虽然过去并不美好），可以记录当下的美好时光（希望如此）, 可以写下对未来的期望，梦想还是要有的，万一实现了呢？</li><li>梦想是美好的, 现实是残酷的，一个好的习惯需要慢慢养成，我希望我能坚持下去, 这篇文章就当成博客的日志吧</li></ul>]]></content>
+    <content type="html"><![CDATA[<p>2024&#x2F;12&#x2F;29  • 天气：多云🌥️• 最高温度:9• 日升:07:32:06• 日落：17:22:45</p><hr><ul><li>2024 年底，出差出麻了，比较高兴的是在特种兵队长的带领下出差期间也看了祖国的大好河山，最近突然有了些想法，人生在世几十年，回顾往日，自己留下来什么足迹？想了许久，枫叶的博客由此而来！</li></ul><hr><h2 id="1-20241229"><a href="#1-20241229" class="headerlink" title="1 20241229"></a>1 20241229</h2><ul><li>博客用来记录什么？生活、工作或者朋友。可以写下过去美好的回忆（虽然过去并不美好），可以记录当下的美好时光（希望如此）, 可以写下对未来的期望，梦想还是要有的，万一实现了呢？</li><li>梦想是美好的, 现实是残酷的，一个好的习惯需要慢慢养成，我希望我能坚持下去, 这篇文章就当成博客的日志吧</li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;2024&amp;#x2F;12&amp;#x2F;29  • 天气：阴，多云☁️• 最高温度:7• 日升:07:32:06• 日落：17:22:45&lt;/p&gt;
+    <summary type="html">&lt;p&gt;2024&amp;#x2F;12&amp;#x2F;29  • 天气：多云🌥️• 最高温度:9• 日升:07:32:06• 日落：17:22:45&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
-&lt;li&gt;2024 年底，出差出麻了，比较高兴的是在特种兵队长的带领下出差期间也看了祖国的大好河山，最近突然有了</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://ylsing.github.io/2024/12/29/hello-world/"/>
-    <id>https://ylsing.github.io/2024/12/29/hello-world/</id>
-    <published>2024-12-29T04:47:47.617Z</published>
-    <updated>2024-12-29T04:47:47.617Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+&lt;li&gt;2024 年底，出差出麻了，比较高兴的是在特种兵队长的带领下出差期间也看了祖国的大好河山，最近突然有了些</summary>
       
     
     
